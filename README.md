@@ -7,7 +7,9 @@ i initially intend to finish and polish it before publishing but seeing that won
 
 polished version coming soon (maybe 😂😂😂)
 
-Note: Following variable are removed for security/privacy reason, it's need to be filled if you want to run the project
+Note: Following variable/files are removed for security/privacy reason, they need to be filled filled if you want to run the project
 
 - `\lib\imagePick.dart`
     - :17 `REMOVEBG_APIKEY`
+- `android\app\google-services.json`
+- `ios\Runner\GoogleService-Info.plist`
